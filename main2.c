@@ -68,8 +68,7 @@ int main()
     strcpy(str2, "Ron");
     strcat(str1, str2);
     printf("%d", strcmp(str1, str2));
-
-    // Structures
+    
     struct Books bk1, bk2;
     strcpy(bk1.name, "C Programming");
     strcpy(bk1.author, "Dennis");
