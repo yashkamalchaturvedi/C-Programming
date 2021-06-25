@@ -6,6 +6,12 @@ This repository contains 2 programs from basic to intermediate level coding in C
 
 [C Documentation](https://devdocs.io/c/)
 
+<!-- blank line -->
+<figure class="video_container">
+  <iframe src="https://www.youtube.com/embed/enMumwvLAug" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+<!-- blank line -->
+
 ## Feedback
 
 If you have any feedback, you can reach me out at [Yash Kamal Chaturvedi](https://twitter.com/yashkamalchatu1?lang=en)
