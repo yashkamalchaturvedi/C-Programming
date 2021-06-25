@@ -8,7 +8,7 @@ This repository contains 2 programs from basic to intermediate level coding in C
 
 ## Feedback
 
-If you have any feedback, you can reach me out at [Yash Kamal Chaturvedi](https://twitter.com/yashkamalchatu1?lang=en)
+If you have any feedback, you can reach me out at [Yash Kamal Chaturvedi](https://twitter.com/yashkamalchatu1?lang=en).
 
 ## Installation
 
