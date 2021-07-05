@@ -1,6 +1,6 @@
 # C Programming
 
-This repository contains 2 programs from basic to intermediate level coding in C.
+This repository contains programs from basic to intermediate level coding in C.
 
 ## Documentation
 
