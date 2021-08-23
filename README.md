@@ -55,4 +55,4 @@ I use these VS code extensions to support my development workflow.
 - scanf() function is used to take input from the user.
 
 #### When was C language developed?
-- C language was developed in 1972 at bell laboratories of AT&T
+- C language was developed in 1972 at bell laboratories of AT&T.
